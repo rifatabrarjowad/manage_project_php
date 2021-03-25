@@ -1,0 +1,7 @@
+User: greennetbd_greennetbd
+
+Database: greennetbd_admin_user
+
+localhost:3306
+
+$connection = mysqli_connect('localhost:3306', 'greennetbd_greennetbd', '', 'admin');
